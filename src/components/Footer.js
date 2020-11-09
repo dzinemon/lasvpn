@@ -33,30 +33,30 @@ export default function Footer() {
               <p className="mb-5 font-semibold">Product</p>
               <ul className="text-gray-600">
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">
+                  <Link to="#" className="hover:underline cursor-pointer">
                     Download
                   </Link>
                 </li>
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">
+                  <Link to="#" className="hover:underline cursor-pointer">
                     Pricing
                   </Link>
                 </li>
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">
+                  <Link to="#" className="hover:underline cursor-pointer">
                     Locations
                   </Link>
                 </li>
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">Server</Link>
+                  <Link to="#" className="hover:underline cursor-pointer">Server</Link>
                 </li>
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">
+                  <Link to="#" className="hover:underline cursor-pointer">
                     Countries
                   </Link>
                 </li>
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">Blog</Link>
+                  <Link to="#" className="hover:underline cursor-pointer">Blog</Link>
                 </li>
               </ul>
             </div>
@@ -64,30 +64,30 @@ export default function Footer() {
               <p className="mb-5 font-semibold">Engage</p>
               <ul className="text-gray-600">
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">
+                  <Link to="#" className="hover:underline cursor-pointer">
                     LaslesVPN ?
                   </Link>
                 </li>
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">FAQ</Link>
+                  <Link to="#" className="hover:underline cursor-pointer">FAQ</Link>
                 </li>
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">
+                  <Link to="#" className="hover:underline cursor-pointer">
                     Tutorials
                   </Link>
                 </li>
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">
+                  <Link to="#" className="hover:underline cursor-pointer">
                     About Us
                   </Link>
                 </li>
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">
+                  <Link to="#" className="hover:underline cursor-pointer">
                     Privacy Policy
                   </Link>
                 </li>
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">
+                  <Link to="#" className="hover:underline cursor-pointer">
                     Terms of Service
                   </Link>
                 </li>
@@ -97,12 +97,12 @@ export default function Footer() {
               <p className="mb-5 font-semibold">Earn Money</p>
               <ul className="text-gray-600">
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">
+                  <Link to="#" className="hover:underline cursor-pointer">
                     Affiliate
                   </Link>
                 </li>
                 <li className="mb-3">
-                  <Link className="hover:underline cursor-pointer">
+                  <Link to="#" className="hover:underline cursor-pointer">
                     Become Partner
                   </Link>
                 </li>
