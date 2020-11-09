@@ -38,7 +38,7 @@ export default function CarouselWraps() {
   }
 
   const clickTheDot = (event) => {
-    const el = event.target.dataset.value
+    const el = +event.target.dataset.value
     setCurrentSlide(el)
     setCarouselWidth(cardEl.current.offsetWidth)
     setCarouselViewWidth(cardViewEl.current.offsetWidth)
