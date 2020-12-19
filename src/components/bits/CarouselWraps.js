@@ -15,7 +15,7 @@ export default function CarouselWraps() {
   const cardEl = useRef(null)
   const cardViewEl = useRef(null)
 
-  const widthToTranslate = carouselWidth/5
+  let widthToTranslate = carouselWidth/5
 
   const itemsShowed = widthToTranslate * currentSlide
 
